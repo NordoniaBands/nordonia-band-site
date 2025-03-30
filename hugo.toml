@@ -1,0 +1,10 @@
+baseURL = "/"
+title = "Nordonia Marching Band"
+theme = "ananke"
+languageCode = "en-us"
+
+[params]
+author = "Nordonia Band"
+site_logo = ""
+description = "Home of the Nordonia Marching Band"
+recent_posts_number = 3
