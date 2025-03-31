@@ -1,0 +1,63 @@
+[[main]]
+  name = "About"
+  url = "/about/"
+  weight = 10
+
+[[main]]
+  name = "Programs"
+  url = "/programs/"
+  weight = 20
+  identifier = "programs"
+  hasChildren = true
+
+[[main]]
+  name = "Calendar"
+  url = "/calendar/"
+  weight = 30
+
+[[main]]
+  name = "Photos"
+  url = "/photos/"
+  weight = 40
+
+[[main]]
+  name = "Alumni"
+  url = "/alumni/"
+  weight = 50
+
+[[main]]
+  name = "Marching Band"
+  url = "/programs/marching-band/"
+  weight = 10
+  parent = "programs"
+
+[[main]]
+  name = "Concert Band"
+  url = "/programs/concert-band/"
+  weight = 20
+  parent = "programs"
+
+[[main]]
+  name = "Jazz Band"
+  url = "/programs/jazz-band/"
+  weight = 30
+  parent = "programs"
+
+[[main]]
+  name = "Wind Ensemble"
+  url = "/programs/wind-ensemble/"
+  weight = 40
+  parent = "programs"
+
+[[main]]
+  name = "Winter Guard"
+  url = "/programs/winter-guard/"
+  weight = 50
+  parent = "programs"
+
+[[main]]
+  name = "Middle School"
+  url = "/programs/middle-school/"
+  weight = 60
+  parent = "programs"
+

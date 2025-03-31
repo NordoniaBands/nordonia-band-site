@@ -1,4 +1,30 @@
 ---
+title: "About"
+description: "About the Westwind Band Program"
+date: 2024-07-12
+draft: false
+---
+
+# About Our Band Program
+
+Welcome to the Westwind Band Program! We are dedicated to fostering musical excellence, personal growth, and community engagement through our comprehensive band program.
+
+Our program has a rich history of musical achievement and community involvement. Led by a team of dedicated educators and supported by passionate parents and community members, we strive to provide students with exceptional musical experiences that will last a lifetime.
+
+## Our Mission
+
+To inspire and educate students through music, developing not only their musical talents but also important life skills such as teamwork, discipline, leadership, and creativity.
+
+## Our Values
+
+- **Excellence**: Striving for the highest standards in music education and performance
+- **Inclusion**: Creating a welcoming environment for all students
+- **Growth**: Fostering personal and musical development
+- **Community**: Building strong relationships among students, parents, staff, and the broader community
+
+Please explore our website to learn more about our various programs and how you can get involved!
+
+---
 title: "About Our Band"
 description: "The History and Mission of Nordonia High School Marching Band"
 featured_image: ""
