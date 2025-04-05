@@ -1,40 +1,9 @@
 ---
 title: "Marching Band"
-description: "Information about our award-winning marching band program"
+description: "The Nordonia High School Marching Band - Fostering musical excellence, personal growth, and community spirit"
+featured_image: "/images/programs/marching-band/featured-performance.jpg"
 date: 2024-07-12
 draft: false
----
-
-# Marching Band
-
-The Westwind Marching Band is the flagship ensemble of our instrumental music program. With a tradition of excellence spanning decades, our marching band combines musical artistry with precision movement to create unforgettable performances on the field.
-
-## Program Highlights
-
-- Competitive program participating in regional and national competitions
-- Fall season running from August through November
-- Summer band camp to prepare for the season
-- Multiple performances at football games, community events, and competitions
-- Development of musicianship, physical coordination, and teamwork skills
-
-## Sections
-
-- Woodwinds
-- Brass
-- Percussion/Battery
-- Front Ensemble
-- Color Guard
-
-## Participation
-
-The marching band is open to all students in grades 9-12 with prior instrumental music experience. Guard positions are available to students with or without prior musical experience.
-
-For more information about rehearsal schedules, performances, and how to join, please contact our band director.
-
----
-title: "Marching Band"
-description: "The Nordonia Lancer Marching Band - Fostering musical excellence, personal growth, and community spirit"
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
 ---
 
 # Nordonia High School Marching Band
@@ -43,17 +12,35 @@ featured_image: "/images/gohugo-default-sample-hero-image.jpg"
 The Nordonia High School Marching Band is dedicated to fostering musical excellence, personal growth, and community spirit. Through engaging performances and rigorous musical training, the band inspires students to embrace teamwork, leadership, and a commitment to excellence.
 
 ## About Our Program
-The Nordonia Lancer Marching Band performs regularly at:
+The Nordonia High School Marching Band is the flagship ensemble of our instrumental music program. With a tradition of excellence spanning decades, our marching band combines musical artistry with precision movement to create unforgettable performances on the field.
+
+The band performs regularly at:
 - Nordonia Knights football games
 - OMEA competitions
 - Bands of America regional events
 - Local community parades
 - Community events and festivals
 
+{{< figure src="/images/programs/marching-band/football-performance.jpg" title="Friday Night Lights: The Nordonia Marching Band in action at a home football game" >}}
+
+## Program Highlights
+- Competitive program participating in regional and national competitions
+- Fall season running from August through November
+- Summer band camp to prepare for the season
+- Multiple performances at football games, community events, and competitions
+- Development of musicianship, physical coordination, and teamwork skills
+
 ## Recent Shows
 - **2024:** "Bend Don't Break" - A visually impactful show highlighting resilience through unique visual props and music
 - **2023:** "A Day in Paris" - Premiered with new uniforms and earned qualification for state competitions
 - **2021:** "Knight Lights" - Creative halftime show featuring innovative LED lighting effects
+
+## Sections
+- Woodwinds
+- Brass
+- Percussion/Battery
+- Front Ensemble
+- Color Guard
 
 ## History
 Established in 1961 alongside Nordonia High School in Macedonia, Ohio, the Nordonia Marching Band has grown into a respected program recognized for its creativity and competitive success. The band has qualified for state competitions for 11 consecutive years and continues to push boundaries in performance and innovation.
@@ -77,6 +64,11 @@ We maintain strong community ties through:
 - Local outreach performances
 - Supporting school spirit at athletic events
 
+{{< figure src="/images/programs/marching-band/parade-performance.jpg" title="The Nordonia High School Marching Band at the annual Memorial Day Parade" >}}
+
+## Participation
+The marching band is open to all students in grades 9-12 with prior instrumental music experience. Guard positions are available to students with or without prior musical experience.
+
 ## Join the Band
 Interested in becoming part of our award-winning program? Contact our directors for information about:
 - Summer band camp
@@ -90,4 +82,3 @@ For more information about the Marching Band program, please contact:
 - Mr. Tom Weaver, Director of Bands
 
 [View Upcoming Performances →](/calendar)
-
