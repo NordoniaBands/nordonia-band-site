@@ -8,6 +8,50 @@ draft: false
 
 # Nordonia High School Marching Band
 
+## About Our Program
+
+The Nordonia High School Marching Band is a dynamic ensemble that combines musical excellence with precision marching. Our program emphasizes both artistic expression and technical proficiency, creating memorable performances that inspire audiences and performers alike.
+
+{{< figure src="/images/programs/marching-band/football-performance.jpg" title="The Nordonia Marching Band performing at a home football game" >}}
+
+### Program Features
+- Competitive field shows
+- Football game performances
+- Community parades and events
+- Leadership development opportunities
+- Musical skill advancement
+
+## Performance Season
+
+Our marching band performs throughout the fall season at:
+- Home football games
+- OMEA competitions
+- Local and regional parades
+- Community events
+- Band festivals
+
+## Community Engagement
+
+Beyond our regular performance schedule, the Nordonia Marching Band is proud to serve our community through various events and celebrations throughout the year.
+
+{{< figure src="/images/programs/marching-band/parade-performance.jpg" title="Nordonia Marching Band at the Memorial Day Parade" >}}
+
+## Join the Band
+
+Interested in joining? Contact our band directors for information about:
+- Summer band camp
+- Rehearsal schedules
+- Equipment requirements
+- Parent involvement opportunities
+title: "Marching Band"
+description: "The Nordonia High School Marching Band - Fostering musical excellence, personal growth, and community spirit"
+featured_image: "/images/programs/marching-band/featured-performance.jpg"
+date: 2024-07-12
+draft: false
+---
+
+# Nordonia High School Marching Band
+
 ## Mission & Vision
 The Nordonia High School Marching Band is dedicated to fostering musical excellence, personal growth, and community spirit. Through engaging performances and rigorous musical training, the band inspires students to embrace teamwork, leadership, and a commitment to excellence.
 
