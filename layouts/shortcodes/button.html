@@ -1,0 +1,105 @@
+{{ $href := .Get "href" }}
+{{ $text := .Get "text" }}
+
+<div class="button-container">
+  <a href="{{ $href }}" class="custom-button{{ if in $href ".pdf" }} pdf-button{{ else if in $href ".doc" }} doc-button{{ else if in $href ".xlsx" }} excel-button{{ else if in $href "donate" }} donate-button{{ else if in $href "signup" }} signup-button{{ end }}">
+    {{ $text }}
+    {{ if or (in $href ".pdf") (in $href ".doc") (in $href ".xlsx") (in $href ".zip") }}
+    <span class="download-icon">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+        <polyline points="7 10 12 15 17 10"></polyline>
+        <line x1="12" y1="15" x2="12" y2="3"></line>
+      </svg>
+    </span>
+    {{ end }}
+  </a>
+</div>
+
+<style>
+  /* Button styling - will be overridden by theme styles if defined */
+  .button-container {
+    margin: 1.5rem 0;
+  }
+  
+  .custom-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.75rem 1.5rem;
+    background-color: #1a73e8;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    max-width: 100%;
+    text-align: center;
+  }
+  
+  .custom-button:hover {
+    background-color: #1557b0;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    transform: translateY(-1px);
+  }
+  
+  .custom-button:active {
+    transform: translateY(1px);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  }
+  
+  .download-icon {
+    margin-left: 0.5rem;
+  }
+  
+  /* Button variations */
+  .pdf-button {
+    background-color: #e53935;
+  }
+  
+  .pdf-button:hover {
+    background-color: #c62828;
+  }
+  
+  .doc-button {
+    background-color: #1565c0;
+  }
+  
+  .doc-button:hover {
+    background-color: #0d47a1;
+  }
+  
+  .excel-button {
+    background-color: #2e7d32;
+  }
+  
+  .excel-button:hover {
+    background-color: #1b5e20;
+  }
+  
+  .donate-button {
+    background-color: #6200ea;
+  }
+  
+  .donate-button:hover {
+    background-color: #4a148c;
+  }
+  
+  .signup-button {
+    background-color: #f57c00;
+  }
+  
+  .signup-button:hover {
+    background-color: #e65100;
+  }
+  
+  /* Responsive adjustments */
+  @media screen and (max-width: 480px) {
+    .custom-button {
+      width: 100%;
+      padding: 0.75rem 1rem;
+    }
+  }
+</style>
+

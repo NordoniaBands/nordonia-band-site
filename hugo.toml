@@ -1,10 +1,10 @@
 baseURL = "/"
-title = "Nordonia Marching Band"
+title = "Nordonia Hills Bands"
 theme = "ananke"
 languageCode = "en-us"
 
 [params]
-author = "Nordonia Band"
+author = "Nordonia Bands"
 site_logo = ""
-description = "Home of the Nordonia Marching Band"
+description = "Home of the Nordonia Hills Band Programs"
 recent_posts_number = 3

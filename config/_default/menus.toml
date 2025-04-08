@@ -1,7 +1,7 @@
-[[main]]
-  name = "About"
-  url = "/about/"
-  weight = 10
+# [[main]]
+#   name = "About"
+#   url = "/about/"
+#   weight = 10
 
 [[main]]
   name = "Programs"
@@ -21,10 +21,43 @@
   weight = 40
 
 [[main]]
+  name = "News"
+  url = "/news/"
+  weight = 45
+
+[[main]]
+  name = "Resources"
+  url = "/resources/"
+  weight = 50
+  identifier = "resources"
+  hasChildren = true
+
+[[main]]
+  name = "Support"
+  url = "/support/"
+  weight = 60
+
+[[main]]
+  name = "Recognition"
+  url = "/recognition/"
+  weight = 70
+
+[[main]]
   name = "Alumni"
   url = "/alumni/"
-  weight = 50
+  weight = 80
 
+[[main]]
+  name = "FAQ"
+  url = "/faq/"
+  weight = 90
+
+[[main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 100
+
+# Programs submenu items
 [[main]]
   name = "Marching Band"
   url = "/programs/marching-band/"
@@ -60,4 +93,29 @@
   url = "/programs/middle-school/"
   weight = 60
   parent = "programs"
+
+# Resources submenu items
+[[main]]
+  name = "Band Handbook"
+  url = "/resources/handbook/"
+  weight = 10
+  parent = "resources"
+
+[[main]]
+  name = "Forms"
+  url = "/resources/forms/"
+  weight = 20
+  parent = "resources"
+
+[[main]]
+  name = "Practice Tools"
+  url = "/resources/practice-tools/"
+  weight = 30
+  parent = "resources"
+
+[[main]]
+  name = "Private Lessons"
+  url = "/resources/private-lessons/"
+  weight = 40
+  parent = "resources"
 
