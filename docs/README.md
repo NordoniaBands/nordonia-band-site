@@ -98,7 +98,7 @@ band-webpage/
 
 2. **Clone the repository**
    ```bash
-   git clone https://github.com/your-organization/band-webpage.git
+   git clone https://github.com/NordoniaBands/nordonia-band-site.git
    cd band-webpage
    ```
 
