@@ -3,92 +3,63 @@ title: "Wind Ensemble"
 description: "Our advanced concert ensemble performing challenging repertoire"
 date: 2024-07-12
 draft: false
+featured_image: "/images/programs/wind-ensemble/Spring_Band_Concert-2025.jpg"
+---
+
+Here is a rewritten version of the **Wind Ensemble** section that incorporates all essential points from the director’s notes while maintaining a polished and informative tone for the website:
+
 ---
 
 # Wind Ensemble
 
-The Westwind Wind Ensemble represents the most advanced level of our concert band program. This select group of musicians performs challenging repertoire from diverse musical periods and styles, emphasizing musical excellence and artistic expression.
+The **Nordonia High School Wind Ensemble** is the premier concert ensemble within the Nordonia Hills Band Program. Open to students by audition only, the Wind Ensemble represents our most advanced level of concert performance and consistently performs collegiate and professional-level repertoire. The ensemble regularly receives Superior ratings at OMEA adjudicated events and serves as a model of musical excellence in our program.
 
-## Program Highlights
-
-- Advanced-level ensemble open by audition
-- Performance of collegiate and professional-level repertoire
-- Focus on refined musicianship and technical mastery
-- Opportunities for chamber music experience
-- Participation in prestigious festivals and events
-
-## Curriculum
-
-Our Wind Ensemble curriculum emphasizes:
-
-- Advanced instrumental techniques
-- Refined ensemble skills
-- Musical interpretation and expression
-- Historical and theoretical analysis of repertoire
-- Leadership development
-
-## Performances
-
-The Wind Ensemble maintains an active performance schedule, including:
-
-- Seasonal concerts
-- Community performances
-- Adjudicated festivals
-- Collaborative concerts with guest conductors and soloists
-- Special events and ceremonies
-
-## Auditions
-
-Membership in the Wind Ensemble is by audition only. Auditions typically include prepared excerpts, scales, sight-reading, and may include a brief interview. For current audition requirements and schedules, please contact the band director.
-
-For more information about the Wind Ensemble program, please reach out to our band director.
-
----
-title: "Wind Ensemble"
-description: "Nordonia High School's advanced performing group exploring challenging musical literature"
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
----
-
-# Wind Ensemble
-
-The Nordonia High School Wind Ensemble represents the highest level of concert performance within our band program. Under the direction of Mr. Tom Weaver and Mr. Eric Vasquez, this advanced performing group explores challenging musical literature while focusing on high-level musicianship and performance techniques.
+Under the direction of **Mr. Eric Vasquez**, students in the Wind Ensemble are challenged to develop refined musicianship, technical mastery, and a deep understanding of musical artistry. The group also fosters leadership within the broader band program and provides opportunities for chamber music, guest clinician experiences, and participation in regional events and festivals.
 
 ## Program Overview
 
-### Admission
-- Entry is determined by audition
-- Students must demonstrate advanced musical proficiency
-- Commitment to musical excellence required
+**Admission:**
 
-### Performance Focus
-- Advanced musical literature
-- Complex ensemble techniques
-- Refined performance skills
-- Individual and group musicianship development
+* Membership is by audition only
+* Students must demonstrate advanced musical skill and commitment
+* Annual auditions include scales, sight-reading, prepared excerpts, and may include a brief interview
+
+**Instructional Focus:**
+
+* Development of advanced instrumental techniques
+* Mastery of complex ensemble skills and musical expression
+* Historical and theoretical analysis of concert literature
+* Preparation for collegiate-level music study and lifelong musicianship
 
 ## Performance Opportunities
-- Annual seasonal concerts
-- State-level adjudications
-- Special performance events
-- Community concerts
+
+The Wind Ensemble maintains an active and varied performance schedule, including:
+
+* Seasonal school concerts
+* Community and district performances
+* OMEA adjudicated Large Group and Solo & Ensemble events
+* Collaborative performances with guest conductors and clinicians
+* Special district or regional ceremonies
 
 ## Expectations
-Wind Ensemble members are expected to:
-- Maintain regular practice schedules
-- Participate in all scheduled performances
-- Contribute to the ensemble's musical growth
-- Demonstrate leadership within the band program
 
-## Audition Information
-Auditions for Wind Ensemble are held annually. Students interested in auditioning should:
-- Prepare the required audition materials
-- Sign up for an audition time slot
-- Demonstrate proficiency in scales, sight-reading, and prepared pieces
+Students selected for Wind Ensemble are expected to:
+
+* Commit to regular personal practice
+* Attend all rehearsals and scheduled performances
+* Exhibit professionalism and dedication to musical growth
+* Serve as musical leaders within the band program
+
+## About the Nordonia Band Program
+
+The Nordonia Hills Band Program serves over 350 students in grades 6 through 12, beginning at Lee Eaton Intermediate School and continuing through Nordonia Middle and High Schools. At the high school level, students have the opportunity to participate in a range of ensembles, including Marching Band, Concert Band, Jazz Band, Indoor Percussion, Winter Guard, and Chamber Ensembles. In 2024, our district was recognized as one of the *Best Communities for Music Education* by the NAMM Foundation.
+
+Our band program is proud to represent the communities of **Macedonia**, **Northfield Center**, **Northfield Village**, **Sagamore Hills**, and parts of **Boston Heights**.
 
 ## Contact Information
-For more information about the Wind Ensemble program, please contact:
-- Mr. Tom Weaver, Director of Bands
-- Mr. Eric Vasquez, Assistant Director
+
+For more information about the Wind Ensemble or the audition process, please contact:
+**Mr. Eric Vasquez**, Head Band and Instrumental Music Director
 
 [View Upcoming Performances →](/calendar)
 

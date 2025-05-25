@@ -77,6 +77,7 @@ The band performs regularly at:
 ## Recent Shows
 - **2024:** "Bend Don't Break" - A visually impactful show highlighting resilience through unique visual props and music
 - **2023:** "A Day in Paris" - Premiered with new uniforms and earned qualification for state competitions
+- **2022:** "Togather" - Show of unity featuring arrangement of peices with word together in the main theme and creative LED displays. 
 - **2021:** "Knight Lights" - Creative halftime show featuring innovative LED lighting effects
 
 ## Sections

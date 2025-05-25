@@ -1,7 +1,7 @@
 ---
 title: "Nordonia Hills Band Programs"
 description: "Welcome to the home of Nordonia Hills Band Programs, fostering musical excellence and community engagement"
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
+featured_image: "/images/main/District_Concert-2025_center.jpg"
 ---
 
 Welcome to the Nordonia Hills Band Programs, where we are dedicated to inspiring musical excellence, promoting artistic growth, and strengthening community ties through our outstanding ensembles and performances.
@@ -35,16 +35,6 @@ The Nordonia Band Programs maintain strong community ties through:
 Our programs consistently achieve excellence in performances and competitions, earning recognition at local, regional, and state levels.
 
 [View Upcoming Performances →](/calendar)
-
----
-title: "Welcome to Nordonia Marching Band"
-description: "Home of the Knights Marching Band"
-featured_image: "/images/band-hero.jpg"
----
-
-# Welcome to Nordonia Marching Band
-
-We are proud to represent Nordonia High School through music, marching, and dedication to excellence. Our band program consists of talented students who perform at football games, competitions, and community events.
 
 ## Quick Links
 

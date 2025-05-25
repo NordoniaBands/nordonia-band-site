@@ -3,6 +3,7 @@ title: "Concert Band"
 description: "Our foundational instrumental ensemble for developing musicians"
 date: 2024-07-12
 draft: false
+featured_image: "/images/programs/concert-band/concert-band-2025.jpg"
 ---
 
 # Concert Band

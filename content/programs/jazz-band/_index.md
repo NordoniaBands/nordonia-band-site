@@ -10,36 +10,6 @@ draft: false
 
 The Nordonia High School Jazz Band provides students with opportunities to explore America's original art form through the study and performance of various jazz styles, including swing, bebop, Latin, funk, and contemporary jazz.
 
-## Program Requirements
-- Membership by audition
-- Must be a current member of a concert band
-- Commitment to learning jazz style and improvisation
-- Regular attendance at rehearsals and performances
-
-## Performance Opportunities
-The Jazz Band maintains an active performance schedule including:
-- School concerts
-- Jazz festivals and competitions
-- Community events
-- Collaborative performances with guest artists
-
-## Contact Information
-For more information about the Jazz Band program, please contact:
-- Mr. Eric Vasquez, Head Director
-- Mr. Tom Weaver, Director of Bands
-
-[View Upcoming Performances →](/calendar)
-title: "Jazz Band"
-description: "Exploring jazz and contemporary music styles at Nordonia High School"
-featured_image: "/images/programs/jazz-band/featured-performance.jpg"
-date: 2024-07-12
-draft: false
----
-
-# Nordonia High School Jazz Band
-
-The Nordonia High School Jazz Band provides students with opportunities to explore America's original art form through the study and performance of various jazz styles, including swing, bebop, Latin, funk, and contemporary jazz.
-
 ## Program Overview
 
 ### Participation Requirements
@@ -79,9 +49,6 @@ Our curriculum focuses on:
 The Jazz Band maintains an active performance schedule including:
 - School concerts
 - Jazz festivals and competitions
-- Community events
-- Collaborative performances with guest artists
-- Special performances
 
 ## Rehearsal Schedule
 - Regular rehearsals throughout the school year
