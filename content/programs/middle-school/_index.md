@@ -1,104 +1,73 @@
 ---
 title: "Middle School"
-description: "Our foundational program for young musicians in grades 6-8"
+description: "Foundational instrumental music education for students in grades 6–8 across Lee Eaton Intermediate and Nordonia Middle School"
+featured_image: "/images/programs/middle-school/marching-performance.jpg"
 date: 2024-07-12
 draft: false
 ---
 
 # Middle School Band Program
 
-The Westwind Middle School Band Program serves as the foundation for our instrumental music curriculum, providing students in grades 6-8 with their first comprehensive band experience. Our program focuses on developing fundamental skills while fostering a lifelong love of music.
+The **Nordonia Hills Middle School Band Program** serves as the entry point for our comprehensive band curriculum, engaging students in **grades 6 through 8** at both **Lee Eaton Intermediate School** and **Nordonia Middle School**. This program lays the essential foundation for musical growth, technical skill development, and ensemble experience, preparing students for success in our high school band program and beyond.
+
+Led by **Mrs. Mary Schrembeck**, the middle school band faculty provides daily instruction, ensemble rehearsals, and opportunities for students to perform and grow as young musicians.
 
 ## Program Structure
 
-Our middle school program is organized into three levels:
+### Beginning Band – 6th Grade (Lee Eaton Intermediate School)
+- Introduction to band instruments and instrumental technique  
+- Basic music reading, rhythm, and theory concepts  
+- First large ensemble experiences  
+- Instrument selection guidance and care  
 
-### Beginning Band (6th Grade)
-- Introduction to instrumental technique
-- Basic music reading and theory concepts
-- First ensemble experiences
-- Instrument selection and care
+### 7th Grade Band (Nordonia Middle School)
+- Development of foundational technique and tone production  
+- Exploration of ensemble performance skills  
+- Introduction to more complex rhythms, articulation, and musical terms  
+- Participation in concerts and festivals  
 
-### Intermediate Band (7th Grade)
-- Continued development of instrumental skills
-- Expanded range and technique
-- Introduction to more complex musical concepts
-- Development of independent musicianship
+### 8th Grade Band (Nordonia Middle School)
+- Refined technique and expressive performance  
+- Exposure to more advanced repertoire  
+- Preparation for high school Concert Band and Wind Ensemble  
+- Opportunities for student leadership and mentorship  
 
-### Advanced Band (8th Grade)
-- Refined instrumental technique
-- More challenging repertoire
-- Preparation for high school ensembles
-- Leadership opportunities
+## Jazz Band (7th–8th Grade)
 
-## Curriculum Highlights
+Middle school students may also participate in **curricular jazz band classes**, which introduce:
+- Classic and contemporary jazz styles  
+- Basic improvisation and jazz articulation  
+- Ensemble collaboration  
+- Additional performances throughout the year  
 
-- Fundamentals of instrument technique
-- Music literacy and theory
-- Ensemble skills and musicianship
-- Performance opportunities
-- Introductory marching band experiences
+## Performance Opportunities
 
-## Performances
+Students participate in a variety of performances and events throughout the year, including:
+- Seasonal concerts  
+- School assemblies and district events  
+- OMEA Solo & Ensemble and Large Group Adjudicated Events  
+- Community outreach performances  
+- Combined concerts with Nordonia High School ensembles  
 
-Middle school bands perform throughout the year at:
+## Notable Achievements
 
-- Seasonal concerts
-- School assemblies and events
-- Local festivals and adjudications
-- Community events
-- Collaborative concerts with high school ensembles
+The Nordonia Middle School Band has received **Superior ratings at OMEA adjudicated events** and has been invited to perform at:
+- **Ohio Band Directors Conference**  
+- **ASBDA Conventions**  
+- **OMEA State Convention**
 
-## Transition to High School
+These achievements reflect the dedication of our students and the strength of our foundational music education.
 
-Our middle school program is designed to prepare students for a successful transition to our high school band program. Eighth grade students participate in activities with the high school ensembles, including:
+## Preparing for High School Band
 
-- Shadow days
-- Combined rehearsals
-- Mentorship opportunities
-- High school band recruitment events
-
-For more information about our middle school band program, including instrument selection, practice expectations, and performance schedules, please contact our middle school band director.
-
----
-title: "Middle School Band Program"
-description: "Developing foundational musical skills and fostering a lifelong appreciation for music"
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
----
-
-# Middle School Band Program
-
-The Nordonia Middle School Band Program is committed to developing foundational musical skills and fostering a lifelong appreciation for music among students in grades 7 and 8. Led by Mrs. Mary Schrembeck, the program offers comprehensive musical education through structured daily rehearsals, diverse performance opportunities, and participation in local and regional events.
-
-## Our Ensembles
-
-### 7th and 8th Grade Concert Bands
-Our core ensemble program focuses on:
-- Development of instrumental techniques
-- Building strong musicianship skills
-- Exploring diverse musical styles
-- Regular concert performances
-- Participation in OMEA adjudicated events
-
-### Jazz Bands
-Our middle school jazz program offers:
-- Introduction to jazz styles
-- Basic improvisation techniques
-- Ensemble playing experience
-- Performance opportunities throughout the year
-
-## Program Achievements
-Our bands have consistently demonstrated excellence through:
-- Superior ratings at OMEA District Large Group Events
-- Invitations to perform at prestigious events, including:
-    - Ohio Band Directors Conference
-    - ASBDA Conventions
-    - OMEA State Convention
-
-## Performance Schedule
-Visit our [calendar](/calendar) page for upcoming performances and events.
+Eighth-grade students participate in a seamless transition process into the high school band program, including:
+- Combined rehearsals and performances with high school ensembles  
+- “Shadow days” with high school band students  
+- Mentorship from student leaders in the high school band  
+- Early exposure to high school marching and concert opportunities  
 
 ## Contact Information
-For more information about the Middle School Band Program, please contact:
-Mrs. Mary Schrembeck, Director
 
+For more information about the Middle School Band Program, please contact:  
+**Mrs. Mary Schrembeck**, Middle School Band Director  
+[View Upcoming Performances →](/calendar)

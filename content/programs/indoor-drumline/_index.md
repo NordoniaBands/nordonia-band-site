@@ -1,6 +1,6 @@
 ---
 title: "Indoor Drumline"
-description: "Exploring jazz and contemporary music styles at Nordonia High School"
+description: "Rebooting the tradition from a decade ago at Nordonia High School"
 featured_image: "/images/programs/indoor-drumline/indoor-drumline-competition-2025.jpg"
 date: 2024-07-12
 draft: false

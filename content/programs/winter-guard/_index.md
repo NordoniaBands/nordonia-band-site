@@ -1,116 +1,67 @@
 ---
 title: "Winter Guard"
-description: "Our indoor color guard program combining dance, equipment, and performance art"
+description: "Nordonia High School Winter Guard – Precision, expression, and artistry through indoor performance"
+featured_image: "/images/programs/winter-guard/featured-performance.jpg"
 date: 2024-07-12
 draft: false
 ---
 
 # Winter Guard
 
-The Westwind Winter Guard is our indoor color guard program that performs during the winter and spring seasons. This artistic ensemble combines elements of dance, equipment manipulation, and theatrical performance to create expressive productions in an indoor setting.
+The **Nordonia High School Winter Guard** is an extension of our marching band's Color Guard program, offering students an expressive and competitive indoor performance experience during the **winter and spring seasons**. This dynamic ensemble combines **dance, equipment work**, and **theatrical storytelling** to produce visually stunning routines set to recorded music in a gymnasium or arena setting.
 
-## Program Highlights
-
-- Indoor competitive season from December through April
-- Development of dance technique and equipment skills
-- Creative expression through movement and performance
-- Participation in regional competitions and exhibitions
-- Emphasis on teamwork, discipline, and artistic growth
-
-## Curriculum
-
-Our Winter Guard curriculum focuses on:
-
-- Flag, rifle, and sabre technique
-- Dance and movement fundamentals
-- Performance skills and stage presence
-- Ensemble awareness and spatial relationships
-- Artistic expression and interpretation
-
-## Equipment and Skills
-
-Participants learn to manipulate various pieces of equipment, including:
-
-- Flags of various sizes and designs
-- Rifles (performance equipment)
-- Sabres
-- Other specialized props as required by the show design
-
-## Performances
-
-The Winter Guard competes and performs at various venues:
-
-- Regional winter guard competitions
-- School exhibitions and showcases
-- Year-end championships
-- Community events
-
-No prior experience is necessary to join Winter Guard, though dance or color guard experience is beneficial. The program is open to students of all grade levels.
-
-For more information about rehearsal schedules, competitions, and how to join, please contact our color guard instructor or band director.
-
----
-title: "Winter Guard"
-description: "Nordonia High School Winter Guard - Precision, artistry, and teamwork in indoor performance"
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
----
-
-# Winter Guard
-
-The Nordonia High School Winter Guard program provides an exciting indoor performance experience that emphasizes precision, artistry, and teamwork. Our performers combine dance, flag work, and equipment techniques to create compelling visual productions set to recorded music.
+Winter Guard promotes individual growth, ensemble collaboration, and artistic interpretation, making it a unique and rewarding activity open to **students of all grade levels**.
 
 ## Program Overview
 
-### About Winter Guard
-Our recently established Winter Guard program offers students the opportunity to:
-- Develop dance and movement skills
-- Master flag and equipment techniques
-- Create artistic visual performances
-- Compete at local and regional events
-- Build teamwork and performance skills
+### Participation
+- Open to all Nordonia High School students (no prior experience required)  
+- Auditions and introductory clinics held in late fall  
+- Season runs from **December through April**
 
-### Performance Elements
-Winter Guard combines several artistic elements:
-- Choreographed dance routines
-- Flag technique and manipulation
-- Equipment work (rifles, sabers)
-- Musical interpretation
-- Theatrical performance
-- Costume and visual design
+### Artistic Focus
+- Dance and movement fundamentals  
+- Equipment techniques (flags, rifles, sabres)  
+- Musical interpretation and visual storytelling  
+- Teamwork, stage presence, and confidence  
 
-## Competition
-The Winter Guard participates in:
-- Local winter guard competitions
-- Regional championships
-- Exhibition performances
-- School demonstrations
+## Performance Opportunities
 
-## Student Development
-Members of the Winter Guard program will:
-- Learn advanced movement techniques
-- Develop performance skills
-- Build strength and coordination
-- Gain competition experience
-- Work as part of a team
-- Create lasting friendships
+The Winter Guard performs and competes in:
+- **Regional winter guard competitions**  
+- **Exhibition performances and school showcases**  
+- **End-of-season championships and festivals**  
+- **Community events and local ceremonies**
 
-## Practice Schedule
-- Regular after-school rehearsals
-- Weekend practices during competition season
-- Specialized clinics and workshops
-- Pre-competition intensives
+![Color Guard Knight](/images/fun/color_guard-knight.png)
 
-## Join Winter Guard
-Interested students should:
-- Attend information meetings
-- Participate in clinics
-- Prepare for auditions
-- Commit to the full season schedule
+## Curriculum & Skills
+
+Members develop a variety of performance and technical skills, including:
+- Flag spinning, tosses, and choreography  
+- Rifle and sabre manipulation  
+- Dance styles including jazz, lyrical, and contemporary movement  
+- Staging, formations, and spatial awareness  
+- Costume and prop integration  
+
+## Rehearsal Schedule
+
+- Regular **after-school rehearsals**  
+- **Weekend practices** during peak competition season  
+- **Special clinics** focused on technique and choreography  
+- **Intensive rehearsals** leading up to major performances
+
+## Join the Winter Guard
+
+No prior dance or guard experience is necessary—just a willingness to learn and perform! Interested students should:
+- Attend fall information meetings and clinics  
+- Participate in tryouts or placement sessions  
+- Commit to the rehearsal and competition schedule  
+- Embrace the values of teamwork, discipline, and creativity
 
 ## Contact Information
-For more information about the Winter Guard program, please contact:
-- Mr. Eric Vasquez, Head Director
-- Mr. Tom Weaver, Director of Bands
+
+For more information about the Winter Guard program, please contact:  
+**Mr. Eric Vasquez**, Head Band and Instrumental Music Director  
 
 [View Upcoming Performances →](/calendar)
-

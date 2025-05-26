@@ -1,6 +1,6 @@
 ---
 title: "Marching Band"
-description: "The Nordonia High School Marching Band - Fostering musical excellence, personal growth, and community spirit"
+description: "The Nordonia High School Marching Band – Showcasing musical excellence, school spirit, and community pride through dynamic performances"
 featured_image: "/images/programs/marching-band/featured-performance.jpg"
 date: 2024-07-12
 draft: false
@@ -8,122 +8,85 @@ draft: false
 
 # Nordonia High School Marching Band
 
-## About Our Program
+## About the Program
 
-The Nordonia High School Marching Band is a dynamic ensemble that combines musical excellence with precision marching. Our program emphasizes both artistic expression and technical proficiency, creating memorable performances that inspire audiences and performers alike.
+The **Nordonia High School Marching Band** is a **Class AA competitive ensemble** that combines musical excellence, precision marching, and school spirit. Representing the flagship of the Nordonia Hills instrumental music program, the marching band performs at **OMEA marching band events**, **football games**, **community parades**, and **special festivals** throughout the fall season.
 
-{{< figure src="/images/programs/marching-band/football-performance.jpg" title="The Nordonia Marching Band performing at a home football game" >}}
-
-### Program Features
-- Competitive field shows
-- Football game performances
-- Community parades and events
-- Leadership development opportunities
-- Musical skill advancement
-
-## Performance Season
-
-Our marching band performs throughout the fall season at:
-- Home football games
-- OMEA competitions
-- Local and regional parades
-- Community events
-- Band festivals
-
-## Community Engagement
-
-Beyond our regular performance schedule, the Nordonia Marching Band is proud to serve our community through various events and celebrations throughout the year.
-
-{{< figure src="/images/programs/marching-band/parade-performance.jpg" title="Nordonia Marching Band at the Memorial Day Parade" >}}
-
-## Join the Band
-
-Interested in joining? Contact our band directors for information about:
-- Summer band camp
-- Rehearsal schedules
-- Equipment requirements
-- Parent involvement opportunities
-title: "Marching Band"
-description: "The Nordonia High School Marching Band - Fostering musical excellence, personal growth, and community spirit"
-featured_image: "/images/programs/marching-band/featured-performance.jpg"
-date: 2024-07-12
-draft: false
----
-
-# Nordonia High School Marching Band
-
-## Mission & Vision
-The Nordonia High School Marching Band is dedicated to fostering musical excellence, personal growth, and community spirit. Through engaging performances and rigorous musical training, the band inspires students to embrace teamwork, leadership, and a commitment to excellence.
-
-## About Our Program
-The Nordonia High School Marching Band is the flagship ensemble of our instrumental music program. With a tradition of excellence spanning decades, our marching band combines musical artistry with precision movement to create unforgettable performances on the field.
-
-The band performs regularly at:
-- Nordonia Knights football games
-- OMEA competitions
-- Bands of America regional events
-- Local community parades
-- Community events and festivals
+The ensemble fosters a culture of discipline, creativity, and collaboration—empowering students to grow as musicians and leaders both on and off the field.
 
 {{< figure src="/images/programs/marching-band/football-performance.jpg" title="Friday Night Lights: The Nordonia Marching Band in action at a home football game" >}}
 
+## Performance Season
+
+The marching band maintains an active schedule from **August through November**, with appearances at:
+- Home football games
+- OMEA-sanctioned competitions
+- Local and regional parades (e.g., Memorial Day)
+- Community events and school spirit rallies
+- Band festivals and exhibitions
+
 ## Program Highlights
-- Competitive program participating in regional and national competitions
-- Fall season running from August through November
-- Summer band camp to prepare for the season
-- Multiple performances at football games, community events, and competitions
-- Development of musicianship, physical coordination, and teamwork skills
+
+- Class AA competitive field shows  
+- High-energy football game performances  
+- Strong community presence and engagement  
+- Summer band camp for early-season preparation  
+- Development of leadership, musicianship, and teamwork  
+- Student growth in precision, stamina, and artistic performance  
 
 ## Recent Shows
-- **2024:** "Bend Don't Break" - A visually impactful show highlighting resilience through unique visual props and music
-- **2023:** "A Day in Paris" - Premiered with new uniforms and earned qualification for state competitions
-- **2022:** "Togather" - Show of unity featuring arrangement of peices with word together in the main theme and creative LED displays. 
-- **2021:** "Knight Lights" - Creative halftime show featuring innovative LED lighting effects
 
-## Sections
-- Woodwinds
-- Brass
-- Percussion/Battery
-- Front Ensemble
-- Color Guard
+- **2024:** *Bend Don’t Break* – A powerful show of resilience featuring thematic visuals and intricate drill design  
+- **2023:** *A Day in Paris* – A musically rich and visually elegant show, marking the debut of our new uniforms  
+- **2022:** *Togather* – A unifying performance with LED integration and pieces themed around togetherness  
+- **2021:** *Knight Lights* – A crowd favorite featuring innovative lighting effects and original arrangements  
 
-## History
-Established in 1961 alongside Nordonia High School in Macedonia, Ohio, the Nordonia Marching Band has grown into a respected program recognized for its creativity and competitive success. The band has qualified for state competitions for 11 consecutive years and continues to push boundaries in performance and innovation.
+## Ensemble Sections
 
-## Leadership Team
+- Woodwinds  
+- Brass  
+- Battery Percussion  
+- Front Ensemble  
+- Color Guard  
 
-### Directors
-- **Eric Vasquez, Head Director**  
-  Serving since 2023, Mr. Vasquez is a Kent State alumnus who previously contributed as assistant director and staff member since 2017.
+## Program History
 
-- **Tom Weaver, Former Director**  
-  Led the program for over a decade, significantly advancing the band's reputation and success.
-
-- **Mary Schrembeck, Middle School Director**  
-  Focuses on developing younger musicians to ensure a strong future for the high school program.
+Established in **1961**, the Nordonia Marching Band has earned a reputation for **artistic innovation and competitive excellence**, with consistent **state-level qualifications** for over a decade. The program continues to evolve and lead in performance standards across Northeast Ohio and beyond.
 
 ## Community Engagement
-We maintain strong community ties through:
-- Annual participation in the Macedonia Memorial Day Parade
-- Community events and festivals
-- Local outreach performances
-- Supporting school spirit at athletic events
+
+The Marching Band actively contributes to our local community by participating in:
+- Macedonia’s annual Memorial Day Parade  
+- Local civic celebrations and fundraisers  
+- School district events and spirit rallies  
+- Outreach performances in partnership with other school groups
 
 {{< figure src="/images/programs/marching-band/parade-performance.jpg" title="The Nordonia High School Marching Band at the annual Memorial Day Parade" >}}
 
-## Participation
-The marching band is open to all students in grades 9-12 with prior instrumental music experience. Guard positions are available to students with or without prior musical experience.
-
 ## Join the Band
-Interested in becoming part of our award-winning program? Contact our directors for information about:
-- Summer band camp
-- Rehearsal schedules
-- Performance calendar
-- Equipment and uniform requirements
+
+Participation is open to **students in grades 9–12** who have instrumental music experience. **Color Guard and front ensemble** positions are also available and may not require prior musical training.
+
+To join:
+- Attend summer band camp
+- Follow rehearsal schedules
+- Prepare required materials
+- Learn about uniform and equipment needs
+
+## Leadership Team
+
+**Mr. Eric Vasquez – Head Director**  
+Mr. Vasquez has served as Head Band Director since 2023, bringing years of experience and a deep commitment to musical excellence.
+
+**Mr. Tom Weaver – Former Director**  
+Led the marching band for over a decade and was instrumental in building its reputation for success.
+
+**Ms. Mary Schrembeck – Middle School Director**  
+Prepares our younger students with foundational skills for future participation in the high school marching program.
 
 ## Contact Information
-For more information about the Marching Band program, please contact:
-- Mr. Eric Vasquez, Head Director
-- Mr. Tom Weaver, Director of Bands
 
-[View Upcoming Performances →](/calendar)
+For more information about joining the Marching Band or supporting the program, please contact:  
+**Mr. Eric Vasquez, Head Director**  
+Email: [Insert Email]  
+Phone: [Insert Phone]

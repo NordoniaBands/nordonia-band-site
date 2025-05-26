@@ -1,6 +1,6 @@
 ---
 title: "Concert Band"
-description: "Our foundational instrumental ensemble for developing musicians"
+description: "Nordonia High School Concert Band – Building strong musical foundations through performance and collaboration"
 date: 2024-07-12
 draft: false
 featured_image: "/images/programs/concert-band/concert-band-2025.jpg"
@@ -8,86 +8,46 @@ featured_image: "/images/programs/concert-band/concert-band-2025.jpg"
 
 # Concert Band
 
-The Westwind Concert Band serves as the foundational ensemble for our instrumental music program. This ensemble focuses on developing fundamental skills while introducing students to a diverse repertoire of concert band literature.
+The **Nordonia High School Concert Band** is a vital part of the Nordonia Hills Band Program, offering a strong foundation in musicianship, technique, and ensemble performance. As our **Class C concert ensemble**, the Concert Band is open to students in grades 9–12 and provides a structured environment to strengthen core musical skills while exploring a wide range of concert literature.
 
-## Program Highlights
-
-- Open to students in grades 9-12
-- Focus on fundamental technique development
-- Exploration of diverse musical styles and repertoire
-- Multiple concert performances throughout the year
-- Emphasis on ensemble skills and musicianship
-
-## Curriculum
-
-Our Concert Band curriculum emphasizes:
-
-- Instrumental technique development
-- Music reading and theory fundamentals
-- Listening skills and musical interpretation
-- Ensemble balance, blend, and intonation
-- Performance etiquette and presentation
-
-## Performances
-
-The Concert Band performs several concerts throughout the school year, including:
-
-- Fall Concert
-- Winter Concert
-- Spring Concert
-- Music festivals and adjudications
-
-For more information about the Concert Band program, including rehearsal schedules and audition requirements, please contact our band director.
-
----
-title: "Concert Band"
-description: "Nordonia High School Concert Band - Developing musical excellence through ensemble performance"
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
----
-
-# Concert Band
-
-The Nordonia High School Concert Band provides opportunities for students to explore a variety of musical genres while improving individual and ensemble skills. Under the direction of Mr. Tom Weaver and Mr. Eric Vasquez, this ensemble focuses on developing strong musicianship and performance techniques through collaborative learning.
+Under the direction of **Mr. Eric Vasquez**, students in Concert Band grow as individual performers and as contributing members of a cohesive ensemble.
 
 ## Program Overview
 
 ### Participation
-- Open to all band students through audition
-- Focuses on developing fundamental and intermediate musical skills
-- Encourages musical growth and ensemble cooperation
+- Open to high school students in grades 9–12  
+- Audition required for appropriate ensemble placement  
+- Emphasis on musical growth and readiness for upper-level ensembles  
 
-### Musical Focus
-- Diverse repertoire spanning multiple genres
-- Development of individual instrumental techniques
-- Enhancement of ensemble playing skills
-- Building music reading and interpretation abilities
+### Educational Focus
+- Development of instrumental technique and tone  
+- Improvement of music reading and theory fundamentals  
+- Building ensemble skills: blend, balance, intonation, timing  
+- Exploration of diverse musical styles and genres  
 
-## Performance Schedule
-The Concert Band maintains an active performance calendar including:
-- Regular concerts throughout the school year
-- Seasonal performances
-- School events
-- Community celebrations
+## Performance Opportunities
 
-## Student Development
-Concert Band members will:
-- Improve individual playing techniques
-- Develop ensemble skills
-- Learn music theory and history
-- Gain performance experience
-- Build confidence through public performances
+The Concert Band maintains an active performance schedule, including:
+- Fall, Winter, and Spring Concerts  
+- OMEA Large Group adjudicated events  
+- School assemblies and community performances  
+- Collaborative concerts with other school ensembles  
 
-## Audition Information
-The Concert Band welcomes students who:
-- Have basic proficiency on their instrument
-- Show commitment to musical growth
-- Are willing to participate in regular rehearsals and performances
-- Demonstrate enthusiasm for ensemble playing
+## Student Expectations
+
+Concert Band members are expected to:
+- Participate in all rehearsals and scheduled performances  
+- Maintain regular home practice  
+- Demonstrate progress in musical fundamentals  
+- Contribute positively to the ensemble environment  
+
+## Pathway to Wind Ensemble
+
+The Concert Band serves as a developmental ensemble for students preparing to audition for the **Wind Ensemble (Class A/AA)**. Students gain the necessary technical skills, ensemble experience, and musical maturity through this progression.
 
 ## Contact Information
-For more information about the Concert Band program, please contact:
-- Mr. Tom Weaver, Director of Bands
-- Mr. Eric Vasquez, Assistant Director
+
+For more information about the Concert Band, please contact:  
+**Mr. Eric Vasquez**, Head Band and Instrumental Music Director  
 
 [View Upcoming Performances →](/calendar)
-
