@@ -24,15 +24,17 @@ jobs:
       - name: Build
         run: hugo --minify
 
-      - name: Install Serge.sh CLI
-        run: |
-          curl -fsSL https://cdn.serge.sh/install.sh | bash
-
-      - name: Login to Serge.sh
-        run: |
-          serge login --api-key ${{ secrets.SERGE_API_KEY }}
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          
+      - name: Install Surge CLI
+        run: npm install -g surge
         
-      - name: Publish to Serge.sh
-        run: |
-          serge publish ./public
+      - name: Deploy to Surge.sh
+        run: surge ./public --token ${{ secrets.SURGE_TOKEN }}
+        env:
+          SURGE_LOGIN: ${{ secrets.SURGE_LOGIN }}
+          SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }}
 
