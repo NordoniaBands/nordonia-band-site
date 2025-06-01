@@ -33,8 +33,8 @@ jobs:
         run: npm install -g surge
         
       - name: Deploy to Surge.sh
-        run: surge ./public ${{ secrets.NORDONIA_BANDS_DOMAIN }} --token ${{ secrets.SURGE_TOKEN }}
+        run: surge ./public ${{ variables.NORDONIA_BANDS_DOMAIN }} --token ${{ secrets.SURGE_TOKEN }}
         env:
-          SURGE_LOGIN: ${{ secrets.SURGE_LOGIN }}
+          SURGE_LOGIN: ${{ variables.SURGE_LOGIN }}
           SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }}
 
