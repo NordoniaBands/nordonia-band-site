@@ -1,0 +1,38 @@
+name: Build and Deploy Hugo Site
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Build
+        run: hugo --minify
+
+      - name: Install Serge.sh CLI
+        run: |
+          curl -fsSL https://cdn.serge.sh/install.sh | bash
+
+      - name: Login to Serge.sh
+        run: |
+          serge login --api-key ${{ secrets.SERGE_API_KEY }}
+        
+      - name: Publish to Serge.sh
+        run: |
+          serge publish ./public
+
