@@ -1,0 +1,27 @@
+baseURL: "/"
+languageCode: "en-us"
+title: "Official website for Nordonia Hills Band Program"
+theme: "ananke"  # Updated to use the ananke theme
+
+# Site parameters
+params:
+  description: "Official website for Nordonia Hills Band Program"
+  author: "Band Name"
+  # Add other parameters as needed
+
+# Deployment configuration
+deploy:
+  targets:
+    - name: "surge"
+      URL: "wild-nation.surge.sh"
+      method: "surge"
+      path: "public"
+
+# Build options
+build:
+  writeStats: true
+  useResourceCacheWhen: always
+
+# Additional Hugo configuration options
+# Add more configuration as needed for your specific site
+

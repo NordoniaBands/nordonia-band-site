@@ -17,7 +17,7 @@ Led by Mrs. Mary Schrembeck, our Middle School Program builds strong musical fou
 [Learn more about our Middle School Program →](/programs/middle-school)
 
 ### High School Programs
-Under the direction of Mr. Tom Weaver and Mr. Eric Vasquez, our High School Program offers diverse opportunities:
+Under the direction of Mr. Eric Vasquez, our High School Program offers diverse opportunities:
 
 - **[Wind Ensemble](/programs/wind-ensemble)** - Our advanced performing group exploring challenging musical literature
 - **[Concert Band](/programs/concert-band)** - Open to all band students, focusing on ensemble skills

@@ -47,9 +47,6 @@ Established in 1961 alongside Nordonia High School in Macedonia, Ohio, the Nordo
 - **Eric Vasquez, Head Director**  
   Serving since 2023, Mr. Vasquez is a Kent State alumnus who previously contributed as assistant director and staff member since 2017.
 
-- **Tom Weaver, Former Director**  
-  Led the program for over a decade, significantly advancing the bands reputation and success.
-
 - **Mary Schrembeck, Middle School Director**  
   Focuses on developing younger musicians to ensure a strong future for the high school program.
 

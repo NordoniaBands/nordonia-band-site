@@ -75,14 +75,11 @@ To join:
 
 ## Leadership Team
 
-**Mr. Eric Vasquez – Head Director**  
-Mr. Vasquez has served as Head Band Director since 2023, bringing years of experience and a deep commitment to musical excellence.
+**Mr. Eric Vasquez – Director of Bands**  
+Mr. Vasquez leads the marching band program, bringing extensive experience in marching band direction and music education.
 
-**Mr. Tom Weaver – Former Director**  
-Led the marching band for over a decade and was instrumental in building its reputation for success.
-
-**Ms. Mary Schrembeck – Middle School Director**  
-Prepares our younger students with foundational skills for future participation in the high school marching program.
+**Mr. Mary Schrembeck – Middle School Director**  
+Mrs. Schrembeck works with our middle school students to prepare them for the high school marching band experience.
 
 ## Contact Information
 
