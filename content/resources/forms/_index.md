@@ -59,7 +59,7 @@ Forms required for trips and special events:
 
 | Form | Description | Deadline |
 |------|-------------|----------|
-| {{< button href="/files/forms/OH_Baptist_Camps_Waiver_Form.pdf" text="SkyView Ranch Waver" >}} | Program Activity Release and Waiver of Liability | Two weeks before event |
+| {{< button href="https://drive.google.com/file/d/1pUWKsyLFeSgrn8-HtGPu3zR02Pb3ByHm/view?usp=sharing" text="SkyView Ranch Waver" >}} | Program Activity Release and Waiver of Liability | Two weeks before event |
 <!-- | {{< button href="/files/forms/overnight_permission.pdf" text="Overnight Trip Permission" >}} | Permission and guidelines for overnight trips | One month before trip |
 | {{< button href="/files/forms/medication_authorization.pdf" text="Medication Authorization" >}} | Permission to administer medications during trips | One month before trip | -->
 
