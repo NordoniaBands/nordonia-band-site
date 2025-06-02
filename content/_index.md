@@ -24,6 +24,7 @@ Under the direction of Mr. Eric Vasquez, our High School Program offers diverse 
 - **[Jazz Band](/programs/jazz-band)** - Exploring jazz and contemporary styles
 - **[Marching Band](/programs/marching-band)** - The Nordonia Lancer Marching Band, performing at games and competitions
 - **[Winter Guard](/programs/winter-guard)** - Indoor performance focusing on precision and artistry
+- **[Indoor Drum Line](/programs/indoor-drumline/)** - Indoor visual drum line and front ansamble performance
 
 ## Community Engagement
 

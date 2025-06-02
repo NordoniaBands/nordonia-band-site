@@ -1,7 +1,7 @@
 ---
 title: "Resources"
 description: "Student and parent resources for the Nordonia Band Program"
-featured_image: "/images/resources/featured-resources.jpg"
+featured_image: "/images/bandcamp/practice_01.jpg"
 ---
 
 # Resources for Students & Parents
@@ -10,17 +10,17 @@ Welcome to our resources section, where you'll find essential information, docum
 
 ## What You'll Find Here
 
-### [Band Handbook](/resources/handbook/)
-Our comprehensive handbook contains all program policies, expectations, and important information for band members and their families.
+<!-- ### [Band Handbook](/resources/handbook/)
+Our comprehensive handbook contains all program policies, expectations, and important information for band members and their families. -->
 
 ### [Forms](/resources/forms/)
 Access and download required forms for participation in band activities, trips, and events.
 
-### [Practice Tools](/resources/practice-tools/)
+<!-- ### [Practice Tools](/resources/practice-tools/)
 Resources to enhance your practice sessions, including recommended apps, websites, and techniques to improve your musical skills.
 
 ### [Private Lessons](/resources/private-lessons/)
-Information about private lesson opportunities, including recommended teachers and how to schedule lessons.
+Information about private lesson opportunities, including recommended teachers and how to schedule lessons. -->
 
 ## Stay Connected
 

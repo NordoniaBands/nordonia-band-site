@@ -1,7 +1,7 @@
 ---
 title: "Forms & Documents"
 description: "Access and download all required forms for the Nordonia Band Program"
-featured_image: "/images/resources/forms-featured.jpg"
+featured_image: "/images/bandcamp/field_images_01.jpg"
 ---
 
 # Forms & Documents
@@ -23,7 +23,7 @@ Forms can be submitted in several ways:
 
 ## Required Forms by Category
 
-### Annual Required Forms (Due August 15)
+<!-- ### Annual Required Forms (Due August 15)
 
 These forms must be completed by all students at the beginning of each school year:
 
@@ -51,7 +51,7 @@ Additional forms required for specific ensembles:
 | Form | Description | Deadline |
 |------|-------------|----------|
 | {{< button href="/files/forms/concert_attire.pdf" text="Concert Attire Order" >}} | Order form for concert formal wear | September 30 |
-| {{< button href="/files/forms/instrument_loan.pdf" text="School Instrument Loan" >}} | Agreement for use of school-owned instruments (if applicable) | First week of school |
+| {{< button href="/files/forms/instrument_loan.pdf" text="School Instrument Loan" >}} | Agreement for use of school-owned instruments (if applicable) | First week of school | -->
 
 ### Travel & Event Forms
 
@@ -59,11 +59,11 @@ Forms required for trips and special events:
 
 | Form | Description | Deadline |
 |------|-------------|----------|
-| {{< button href="/files/forms/field_trip_permission.pdf" text="Field Trip Permission" >}} | Standard permission slip for off-campus events | Two weeks before event |
-| {{< button href="/files/forms/overnight_permission.pdf" text="Overnight Trip Permission" >}} | Permission and guidelines for overnight trips | One month before trip |
-| {{< button href="/files/forms/medication_authorization.pdf" text="Medication Authorization" >}} | Permission to administer medications during trips | One month before trip |
+| {{< button href="/files/forms/OH_Baptist_Camps_Waiver_Form.pdf" text="SkyView Ranch Waver" >}} | Program Activity Release and Waiver of Liability | Two weeks before event |
+<!-- | {{< button href="/files/forms/overnight_permission.pdf" text="Overnight Trip Permission" >}} | Permission and guidelines for overnight trips | One month before trip |
+| {{< button href="/files/forms/medication_authorization.pdf" text="Medication Authorization" >}} | Permission to administer medications during trips | One month before trip | -->
 
-### Payment Forms
+<!-- ### Payment Forms
 
 Forms related to financial matters:
 
@@ -92,7 +92,7 @@ Forms needed in special situations:
 |------|-------------|----------|
 | {{< button href="/files/forms/absence_request.pdf" text="Absence Request" >}} | Request for excused absence from required event | Two weeks before event |
 | {{< button href="/files/forms/early_dismissal.pdf" text="Early Dismissal Request" >}} | Request for early departure from an event | One week before event |
-| {{< button href="/files/forms/instrument_damage.pdf" text="Instrument Damage Report" >}} | Report form for damaged school-owned instruments | Within 24 hours of incident |
+| {{< button href="/files/forms/instrument_damage.pdf" text="Instrument Damage Report" >}} | Report form for damaged school-owned instruments | Within 24 hours of incident | -->
 
 ---
 

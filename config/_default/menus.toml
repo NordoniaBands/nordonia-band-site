@@ -1,14 +1,15 @@
-# [[main]]
-#   name = "About"
-#   url = "/about/"
-#   weight = 10
-
 [[main]]
   name = "Programs"
   url = "/programs/"
   weight = 20
   identifier = "programs"
   hasChildren = true
+
+# [[main]]
+#   name = "Band Camp"
+#   url = "/bandcamp/"
+#   indentifier = "bandcamp"
+#   weight = 35
 
 [[main]]
   name = "Calendar"
