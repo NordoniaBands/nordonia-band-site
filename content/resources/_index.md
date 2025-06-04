@@ -22,6 +22,10 @@ Resources to enhance your practice sessions, including recommended apps, website
 ### [Private Lessons](/resources/private-lessons/)
 Information about private lesson opportunities, including recommended teachers and how to schedule lessons. -->
 
+### [Presentations](/resources/presentations/)
+Access and download presentations from prior meetings.
+
+
 ## Stay Connected
 
 Be sure to regularly check our [calendar](/calendar/) for upcoming events and rehearsals, and visit our [news](/news/) section for important announcements.
