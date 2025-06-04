@@ -1,7 +1,7 @@
 ---
 title: "Band Handbook"
 description: "Comprehensive guide to policies, procedures, and expectations for the Nordonia Band Program"
-featured_image: "/images/resources/handbook-featured.jpg"
+featured_image: "/images/res/handbook-featured.jpg"
 ---
 
 # Nordonia Band Program Handbook

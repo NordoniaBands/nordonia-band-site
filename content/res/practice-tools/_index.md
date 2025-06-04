@@ -1,7 +1,7 @@
 ---
 title: "Practice Tools & Resources"
 description: "Enhance your practice sessions with these tools, strategies, and resources"
-featured_image: "/images/resources/practice-tools-featured.jpg"
+featured_image: "/images/res/practice-tools-featured.jpg"
 ---
 
 # Practice Tools & Resources

@@ -1,7 +1,7 @@
 ---
 title: "Private Lessons"
 description: "Information about private instruction opportunities for Nordonia Band students"
-featured_image: "/images/resources/private-lessons-featured.jpg"
+featured_image: "/images/res/private-lessons-featured.jpg"
 ---
 
 # Private Lesson Program

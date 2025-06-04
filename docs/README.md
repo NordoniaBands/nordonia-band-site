@@ -62,7 +62,7 @@ band-webpage/
 ├── layouts/            # HTML templates
 ├── public/             # Generated static site (not in repository)
 ├── raw_source/         # Original content source files
-├── resources/          # Cache directory for Hugo resources
+├── res/          # Cache directory for Hugo resources
 │   └── _gen/          # Generated resources
 ├── static/             # Static files
 │   └── images/         # Image files

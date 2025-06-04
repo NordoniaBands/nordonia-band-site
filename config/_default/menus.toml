@@ -28,7 +28,7 @@
 
 [[main]]
   name = "Resources"
-  url = "/resources/"
+  url = "/res/"
   weight = 50
   identifier = "resources"
   hasChildren = true
@@ -98,31 +98,31 @@
 # Resources submenu items
 [[main]]
   name = "Band Handbook"
-  url = "/resources/handbook/"
+  url = "/res/handbook/"
   weight = 10
   parent = "resources"
 
 [[main]]
   name = "Forms"
-  url = "/resources/forms/"
+  url = "/res/forms/"
   weight = 20
   parent = "resources"
 
 [[main]]
   name = "Practice Tools"
-  url = "/resources/practice-tools/"
+  url = "/res/practice-tools/"
   weight = 30
   parent = "resources"
 
 [[main]]
   name = "Private Lessons"
-  url = "/resources/private-lessons/"
+  url = "/res/private-lessons/"
   weight = 40
   parent = "resources"
 
   [[main]]
   name = "Presentations"
-  url = "/resources/presentations/"
+  url = "/res/presentations/"
   weight = 50
   parent = "resources"
 
