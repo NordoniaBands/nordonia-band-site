@@ -2,6 +2,22 @@
 title: "Nordonia Hills Band Programs"
 description: "Welcome to the home of Nordonia Hills Band Programs, fostering musical excellence and community engagement"
 featured_image: "/images/main/District_Concert-2025_center.jpg"
+sponsors:
+  - name: "Q5 Media"
+    logo: "/images/sponsors/Q5-Media-logo.jpg"
+    website: "https://q5media.com"
+  - name: "North Coast Ferrous Supply"
+    logo: "/images/sponsors/North_Coast_Ferrous_Supply.jpg"
+    website: ""
+  - name: "Long Tail Knits"
+    logo: "/images/sponsors/Long_Tail_Knits_logo.jpg"
+    website: "https://longtailknits.com"
+  - name: "Jason Roberts"
+    logo: "/images/sponsors/initials-Jason-Roberts-BLACK-HIGH-RES.png"
+    website: ""
+  - name: "All 3 Doctors"
+    logo: "/images/sponsors/All3DoctorsLogo.JPG"
+    website: ""
 ---
 
 Welcome to the Nordonia Hills Band Programs, where we are dedicated to inspiring musical excellence, promoting artistic growth, and strengthening community ties through our outstanding ensembles and performances.
@@ -25,6 +41,8 @@ Under the direction of Mr. Eric Vasquez, our High School Program offers diverse 
 - **[Marching Band](/programs/marching-band)** - The Nordonia Lancer Marching Band, performing at games and competitions
 - **[Winter Guard](/programs/winter-guard)** - Indoor performance focusing on precision and artistry
 - **[Indoor Drum Line](/programs/indoor-drumline/)** - Indoor visual drum line and front ansamble performance
+
+{{< sponsors >}}
 
 ## Community Engagement
 
