@@ -5,7 +5,7 @@ featured_image: "/images/main/District_Concert-2025_center.jpg"
 sponsors:
   - name: "Q5 Media"
     logo: "/images/sponsors/Q5-Media-logo.jpg"
-    website: "https://q5media.com"
+    website: "http://www.q5media.com/"
   - name: "North Coast Ferrous Supply"
     logo: "/images/sponsors/North_Coast_Ferrous_Supply.jpg"
     website: ""
@@ -14,10 +14,10 @@ sponsors:
     website: "https://longtailknits.com"
   - name: "Jason Roberts"
     logo: "/images/sponsors/initials-Jason-Roberts-BLACK-HIGH-RES.png"
-    website: ""
-  - name: "All 3 Doctors"
+    website: "https://www.photoohio.com/"
+  - name: "Summit Dental Specialists"
     logo: "/images/sponsors/All3DoctorsLogo.JPG"
-    website: ""
+    website: "https://www.summitspecialists.com/"
 ---
 
 Welcome to the Nordonia Hills Band Programs, where we are dedicated to inspiring musical excellence, promoting artistic growth, and strengthening community ties through our outstanding ensembles and performances.
