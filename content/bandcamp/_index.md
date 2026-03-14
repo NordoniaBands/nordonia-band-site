@@ -15,7 +15,7 @@ draft: false
 **Camp dates:** **July 27 - August 1, 2025** 
 
 ### Why Band Camp?  
-- Intensive training program for marching-band members  
+- Comprehensive training program for marching-band members  
 - Focus on music, marching technique, and ensemble performance  
 - Team-building activities that foster camaraderie  
 - Physical conditioning to build endurance and stamina  
