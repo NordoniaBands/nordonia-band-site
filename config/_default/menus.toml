@@ -5,11 +5,11 @@
   identifier = "programs"
   hasChildren = true
 
-# [[main]]
-#   name = "Band Camp"
-#   url = "/bandcamp/"
-#   indentifier = "bandcamp"
-#   weight = 35
+[[main]]
+  name = "Band Camp"
+  url = "/bandcamp/"
+  indentifier = "bandcamp"
+  weight = 35
 
 [[main]]
   name = "Calendar"
