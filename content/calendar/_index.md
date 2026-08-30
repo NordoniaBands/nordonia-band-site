@@ -10,11 +10,10 @@ draft: false
 
 Our band program maintains an active performance and event schedule throughout the year. You will find up to date calendar in [Band App](https://www.band.us/home). Below you'll find our major upcoming events:
 
-<h2>Volunteer Signups Updates</h2>
+Volunteer Signups Updates
   
 
-
-<a href="https://www.signupgenius.com/go/904044BAFA82DA0FA7-65158238-fri#/">Fri, Sep 4, HOME, Villa Angela - St. Joseph (kindergarten & 8th grade night)</a>
+[Fri, Sep 4, HOME, Villa Angela - St. Joseph (kindergarten & 8th grade night)](https://www.signupgenius.com/go/904044BAFA82DA0FA7-65158238-fri#/)
 
 
 Fri, Sep 11, AWAY, Highland HS (Medina)
