@@ -13,7 +13,7 @@ Our band program maintains an active performance and event schedule throughout t
 Volunteer Signups Updates
   
 
-[Fri, Sep 4, HOME, Villa Angela - St. Joseph (kindergarten & 8th grade night)](https://www.signupgenius.com/go/904044BAFA82DA0FA7-65158238-fri#/)
+Fri, Sep 4, HOME, [Villa Angela - St. Joseph (kindergarten & 8th grade night)](https://www.signupgenius.com/go/904044BAFA82DA0FA7-65158238-fri#/)
 
 
 Fri, Sep 11, AWAY, Highland HS (Medina)
