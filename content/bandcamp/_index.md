@@ -12,7 +12,7 @@ draft: false
 
 ### When & Where  
 **Skyview Ranch - Millersburg, Ohio**  
-**Camp dates:** **July 27 - August 1, 2025** 
+**Camp dates:** **July 26 - July 31, 2026** 
 
 ### Why Band Camp?  
 - Comprehensive training program for marching-band members  
@@ -30,9 +30,9 @@ draft: false
 
 | Day | Focus | Notes |
 |-----|-------|-------|
-| **Sunday, July 27** | Departure & first day of camp | Load buses, settle into cabins, evening orientation |
-| **Mon - Thu (Jul 28-31)** | Full training days | Sectionals, marching fundamentals, ensemble rehearsals, themed evening activities |
-| **Friday, Aug 1** | Final day & return | Parent showcase, pack-up, travel home |
+| **Sunday, July 26** | Departure & first day of camp | Load buses, settle into cabins, evening orientation |
+| **Mon - Thu (Jul 27-30)** | Full training days | Sectionals, marching fundamentals, ensemble rehearsals, themed evening activities |
+| **Friday, July 31** | Final day & return | Parent showcase, pack-up, travel home |
 
 *(Daily hour-by-hour schedule is published separately once finalized.)*
 
