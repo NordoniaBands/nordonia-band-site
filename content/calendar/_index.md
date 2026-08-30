@@ -10,7 +10,7 @@ draft: false
 
 Our band program maintains an active performance and event schedule throughout the year. You will find up to date calendar in [Band App](https://www.band.us/home). Below you'll find our major upcoming events:
 
-Volunteer Signups Updates
+<h2>Volunteer Signups Updates</h2>
 
 Here's the complete list of Volunteer sign up forms for the ENTIRE season. We are hoping this will help accommodate people's schedules with being able to plan into the months ahead and make volunteering more accessible.
 
