@@ -10,7 +10,7 @@ draft: false
 
 Our band program maintains an active performance and event schedule throughout the year. You will find up to date calendar in [Band App](https://www.band.us/home). Below you'll find our major upcoming events:
 
-## June 2025
+## June 2026
 
 ### Tuesday, June 3
 - **Marching Band Kick Off Meeting**
